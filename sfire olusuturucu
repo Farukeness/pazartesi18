@@ -10,4 +10,5 @@ sifre = ""
 for i in range(sayi):
     sifre = sifre + random.choice(karakter)
 
-print(sifre)
+
+    print(sifre)
