@@ -2,7 +2,7 @@ import random
 
 
 karakter = "()<>+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
-
+karakter2 = "()<>+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 sayi = int(input("Kaç karakterli bir şifre oluşturmak istiyorsunuz"))
 
 
